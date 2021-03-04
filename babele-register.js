@@ -182,7 +182,7 @@ Hooks.once('init', () => {
 	if(typeof Babele !== 'undefined') {
 		
 		Babele.get().register({
-			module: 'foundryvtt-dnd5e-lang-ru',
+			module: 'dnd5e-lang-ru',
 			lang: 'ru',
 			dir: 'compendium'
 		});
