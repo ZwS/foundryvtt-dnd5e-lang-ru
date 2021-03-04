@@ -1,0 +1,19 @@
+{
+  "name": "dnd5e-lang-ru",
+  "title": "DnD5e Russian Translation",
+  "description": "Add Russian language to dnd5e system for FoundryVTT. Based on FoundryVTT-dnd5e-it",
+  "version": "0.1",
+  "minimumCoreVersion" : "0.7.6",
+  "compatibleCoreVersion":"0.7.9",
+  "system": "dnd5e",
+  "dependencies": [
+	{
+		"name": "babele",
+		"type": "module"
+	}
+  ],
+  "author": "ZwS",
+  "esmodules": ["babele-register.js"],
+  "manifest": "https://github.com/ZwS/foundryvtt-dnd5e-lang-ru/raw/master/module.json",
+  "download": "https://github.com/ZwS/foundryvtt-dnd5e-lang-ru/archive/master.zip"
+}
