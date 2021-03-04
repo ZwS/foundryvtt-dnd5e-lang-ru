@@ -1,0 +1,135 @@
+{
+	"label": "DAE SRD Feats",
+	"entries": [
+		{
+			"id": "Brutal Critical",
+			"name": "Сильный критический удар",
+			"description": "<p>Начиная с 9 уровня вы можете бросать одну дополнительную кость урона оружия, когда определяете дополнительный урон от критического попадания рукопашной атакой. Количество костей увеличивается до двух на 13 уровне и трёх на 17 уровне.</p>"
+		},
+		{
+			"id": "Dark One's Blessing",
+			"name": "Благословение темнейшего",
+			"description": "<p>Начиная с 1 уровня, когда вы опускаете хиты враждебного существа до 0, вы получаете временные хиты, равные вашему модификатору Харизмы + ваш уровень колдуна (минимум 1).</p>"
+		},
+		{
+			"id": "Disciple of Life",
+			"name": "Поборник жизни",
+			"description": "<p>Начиная с 1 уровня ваши лечащие заклинания становятся более эффективными.</p><p>Каждый раз, когда вы используете заклинание 1 уровня или выше, восстанавливающее хиты существу, это существо восстанавливает дополнительно число хитов, равное 2 + уровень заклинания.</p>"
+		},
+		{
+			"id": "Draconic Resilience",
+			"name": "Драконья устойчивость",
+			"description": "<p>Магия, струящаяся через ваше тело, проявляет физические черты ваших предков драконов. Максимум ваших хитов увеличивается на 1 на 1 уровне и на 1 на каждом уровне, полученном в данном классе.</p><p>Кроме того, некоторые участки вашей кожи покрыты тонкой драконьей чешуёй. Если вы не носите доспехов, ваш Класс Доспеха равен 13 + модификатор Ловкости.</p>"
+		},
+		{
+			"id": "Dragon Ancestor",
+			"name": "Драконий предок",
+			"description": "<p>На 1 уровне вы выбираете вид вашего драконапредка. Связанный с ним вид урона используется в ваших умениях.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Дракон</strong></td>\n<td><strong>Тип урона</strong></td>\n</tr>\n<tr>\n<td>Черный</td>\n<td>Кислота</td>\n</tr>\n<tr>\n<td>Синий</td>\n<td>Электричество</td>\n</tr>\n<tr>\n<td>Латунный</td>\n<td>Огонь</td>\n</tr>\n<tr>\n<td>Бронзовый</td>\n<td>Электричество</td>\n</tr>\n<tr>\n<td>Медный</td>\n<td>Кислота</td>\n</tr>\n<tr>\n<td>Золотой</td>\n<td>Огонь</td>\n</tr>\n<tr>\n<td>Зеленый</td>\n<td>Яд</td>\n</tr>\n<tr>\n<td>Красный</td>\n<td>Огонь</td>\n</tr>\n<tr>\n<td>Серебряный</td>\n<td>Холод</td>\n</tr>\n<tr>\n<td>Белый</td>\n<td>Холод</td>\n</tr>\n</tbody>\n</table>\n<p>Вы можете говорить, читать и писать на Драконьем языке. Кроме того, когда вы взаимодействуете с драконами и совершаете проверку Харизмы, ваш бонус мастерства удваивается для этой проверки.</p>"
+		},
+		{
+			"id": "Dragon Wings",
+			"name": "Крылья дракона",
+			"description": "<p>На 14 уровне вы получаете способность расправить драконьи крылья у себя за спиной, получая при этом скорость полёта, равную вашей текущей скорости. Вы можете создать их бонусным действием в свой ход. Крылья существуют, пока вы не развеете их бонусным действием в свой ход.</p><p>Вы не можете призвать свои крылья, нося броню, если, конечно, броня не изготовлена специально для этого. Одежда, также не приспособленная под крылья, может быть уничтожена, когда вы призываете их.</p>"
+		},
+		{
+			"id": "Druidic",
+			"name": "Друидический язык",
+			"description": "<p>Вы знаете Друидический язык — тайный язык друидов. Вы можете на нём говорить и оставлять тайные послания. Вы и все, кто знают этот язык, автоматически замечаете эти послания. Другие замечают присутствие послания при успешной про- верке Мудрости (Внимательность) со Сл 15, но без помощи магии не могут расшифровать его.</p>"
+		},
+		{
+			"id": "Fast Movement",
+			"name": "Быстрое передвижение",
+			"description": "<p>Начиная с 5 уровня ваша скорость передвижения увеличивается на 10 фт., если вы не носите тяжёлые доспехи.</p>"
+		},
+		{
+			"id": "Feral Instinct",
+			"name": "Дикие чувства",
+			"description": "<p>На 18 уровне вы получаете сверхъестественные чувства, которые помогут вам сражаться с существами, которых вы не можете увидеть. Когда вы атакуете существо, которое не видите, ваша неспособность видеть не накладывает помеху броскам атаки по нему.</p><p>Вам также известно о местонахождении всех невидимых существ в пределах 30 фт. от вас, при условии, что они не скрыты от вас, и вы не ослеплены и не оглушены.</p>"
+		},
+		{
+			"id": "Fiendish Resilience (update as needed)",
+			"name": "Устойчивость исчадия (update as needed)",
+			"description": "<p>Начиная с 10 уровня вы можете выбрать один вид урона, когда заканчиваете короткий или продолжительный отдых. Вы получаете сопротивление этому виду урона, пока вы не выберете другой вид урона при помощи этого умения. Урон от магического или серебряного оружия игнорирует это сопротивление.</p>"
+		},
+		{
+			"id": "Fighting Style: Archery",
+			"name": "Боевой стиль: Стрельба",
+			"description": "<p>Вы получаете бонус +2 к броску атаки, когда атакуете дальнобойным оружием.</p>"
+		},
+		{
+			"id": "Fighting Style: Defense",
+			"name": "Боевой стиль: Оборона",
+			"description": "<p>Пока вы носите доспехи, вы получаете бонус +1 к КД./p>"
+		},
+		{
+			"id": "Improved Critical",
+			"name": "Улучшеные критические попадания",
+			"description": "<p>Ваши атаки оружием совершают критическое попадание при выпадении «19» или «20» на кости атаки.</p>"
+		},
+		{
+			"id": "Improved Divine Smite",
+			"name": "Улучшенная божественная кара",
+			"description": "<p>На 11 уровне вы проникаетесь праведной мощью, что даёт всем вашим атакам рукопашным оружием божественную силу.</p><p>Каждый раз, когда вы попадаете по существу рукопашным оружием, это существо получает дополнительный урон излучением 1d8. Если вы также используете @Compendium[dnd5e.classfeatures.ySMPQ6zNSlvkrl2f]{Божественную кару}, вы добавляете этот урон к дополнительному урону от Божественной кары.</p>"
+		},
+		{
+			"id": "Invocation: Beguiling Influence",
+			"name": "Invocation: Beguiling Influence",
+			"description": "<p>You gain proficiency in the Deception and Persuasion skills.</p>"
+		},
+		{
+			"id": "Invocation: Eyes of the Rune Keeper",
+			"name": "Invocation: Eyes of the Rune Keeper",
+			"description": "<p>You can read all writing.</p>"
+		},
+		{
+			"id": "Jack of All Trades",
+			"name": "Мастер на все руки",
+			"description": "<p>Начиная со 2 уровня вы можете добавлять половину бонуса мастерства, округлённую в меньшую сторону, ко всем проверкам характеристик, куда этот бонус ещё не включён.</p>"
+		},
+		{
+			"id": "Ki: Diamond Soul",
+			"name": "Ци: Алмазная душа",
+			"description": "<p>Начиная с 14 уровня ваше мастерство ци предоставляет вам владение всеми спасбросками. Кроме того, если вы провалили спасбросок, вы можете повторить его, потратив 1 очко ци, и должны использовать второй результат.</p>"
+		},
+		{
+			"id": "Ki: Empty Body",
+			"name": "Ци: Пустое тело",
+			"description": "<p>Начиная с 18 уровня вы можете действием потратить 4 очка ци, чтобы стать невидимым на 1 минуту. В течение этого времени вы получаете сопротивление всем видам урона кроме урона силовым полем.</p>\n<p>Кроме того, вы можете потратить 8 очков ци, чтобы использовать заклинание @Compendium[dnd5e.spells.TIoadMIsUKD4edXi]{проекция в астрал} без применения материальных компонентов. Вы не можете перемещать кого-либо вместе с собой.</p>"
+		},
+		{
+			"id": "Nature's Ward",
+			"name": "Покровительство природы",
+			"description": "<p>С 10 уровня вы не можете быть очарованным или напуганным феями и элементалями. Вы также получаете иммунитет к болезням и ядам.</p>"
+		},
+		{
+			"id": "Primal Champion",
+			"name": "Дикий чемпион",
+			"description": "<p>К 20 уровню вы становитесь воплощением силы дикой природы. Значение Силы и Телосложения увеличивается на 4. Максимальное значение для этих характеристик теперь 24.</p>"
+		},
+		{
+			"id": "Purity of Body",
+			"name": "Чистота тела",
+			"description": "<p>На 10 уровне ваше мастерство ци даёт вам иммунитет к болезням и яду.</p>"
+		},
+		{
+			"id": "Rage",
+			"name": "Ярость",
+			"description": "<p>В бою вы сражаетесь с первобытной свирепостью. В свой ход вы можете бонусным действием войти в состояние ярости. В состоянии ярости вы получаете следующие преимущества, если не носите тяжёлую броню:</p>\n<ul>\n<li>\n<p>Вы совершаете с преимуществом проверки и спасброски Силы.</p>\n</li>\n<li>\n<p>Если вы совершаете рукопашную атаку оружием, используя Силу, вы получаете бонус к броску урона, соответствующий вашему уровню варвара, как показано в колонке «урон ярости» таблицы «Варвар».</p>\n</li>\n<li>\n<p>Вы получаете сопротивление дробящему, колющему и рубящему урону.</p>\n</li>\n</ul>\n<p>Если вы были способны использовать заклинания, то вы не можете использовать или концентрироваться на заклинаниях, пока находитесь в состоянии ярости.</p>\n<p>Ваша ярость длится 1 минуту. Она прекращается раньше, если вы потеряли сознание, если вы закончили ход, не атаковав враждебное по отношению к вам существо с момента окончания прошлого хода, или если вы с момента окончания прошлого хода не получили урон. Также вы можете прекратить свою ярость бонусным действием.</p>\n<p>Если вы впадали в состояние ярости максимальное для вашего уровня количество раз (смотрите колонку «ярость»), то вы должны совершить продолжительный отдых, прежде чем сможете использовать ярость ещё раз.</p>\n<p><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">**Примечание для Foundry: По умолчанию умение ограничено 2. Пожалуйства измените ограничение в соответсвии с правилами.</em></p>\n<table style=\"width: 286px; height: 170px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\"><strong>Уровень варвара</strong></td>\n<td style=\"width: 68px; height: 17px;\"><strong>Ярость</strong></td>\n<td style=\"width: 96px; height: 17px;\"><strong>Урон ярости</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">1</td>\n<td style=\"width: 68px; height: 17px;\">2</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">2</td>\n<td style=\"width: 68px; height: 17px;\">2</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">3</td>\n<td style=\"width: 68px; height: 17px;\">3</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">4</td>\n<td style=\"width: 68px; height: 17px;\">3</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">5</td>\n<td style=\"width: 68px; height: 17px;\">3</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">6</td>\n<td style=\"width: 68px; height: 17px;\">4</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">7</td>\n<td style=\"width: 68px; height: 17px;\">4</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">8</td>\n<td style=\"width: 68px;\">4</td>\n<td style=\"width: 96px;\">+2</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">9</td>\n<td style=\"width: 68px;\">4</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">10</td>\n<td style=\"width: 68px;\">4</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">11</td>\n<td style=\"width: 68px;\">4</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">12</td>\n<td style=\"width: 68px;\">5</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">13</td>\n<td style=\"width: 68px;\">5</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">14</td>\n<td style=\"width: 68px;\">5</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">15</td>\n<td style=\"width: 68px; height: 17px;\">5</td>\n<td style=\"width: 96px; height: 17px;\">+3</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">16</td>\n<td style=\"width: 68px; height: 17px;\">5</td>\n<td style=\"width: 96px; height: 17px;\">+4</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">17</td>\n<td style=\"width: 68px;\">6</td>\n<td style=\"width: 96px;\">+4</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">18</td>\n<td style=\"width: 68px;\">6</td>\n<td style=\"width: 96px;\">+4</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">19</td>\n<td style=\"width: 68px; height: 17px;\">6</td>\n<td style=\"width: 96px; height: 17px;\">+4</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">20</td>\n<td style=\"width: 68px; height: 17px;\">Unlimited</td>\n<td style=\"width: 96px; height: 17px;\">+4</td>\n</tr>\n</tbody>\n</table>"
+		},
+		{
+			"id": "Superior Critical",
+			"name": "Superior Critical",
+			"description": "<p>Your weapon attacks score a critical hit on a roll of 18–20.</p>"
+		},
+		{
+			"id": "Unarmored Defense",
+			"name": "Защита без доспехов",
+			"description": "<p>Если вы не носите доспехов, ваш Класс Доспеха равен 10 + модификатор Ловкости + модификатор Телосложения. Вы можете использовать щит, не теряя этого преимущества.</p>"
+		},
+		{
+			"id": "Unarmored Movement",
+			"name": "Движение без доспехов",
+			"description": "<p>Начиная со 2 уровня ваша скорость увеличивается на 10 фт., если вы не носите доспехов и щит. Этот бонус увеличивается с ростом вашего уровня, как показано в таблице.</p>\n<p>На 9 уровне вы получаете возможность в свой ход перемещаться по вертикальным поверхностям и по поверхности жидкости, не падая во время движения.</p>\n<table style=\"width: 227px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 79px;\"><strong>Уровень монаха</strong></td>\n<td style=\"width: 141px;\"><strong>Скорость без доспехов</strong></td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">2</td>\n<td style=\"width: 141px;\">+10 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">3</td>\n<td style=\"width: 141px;\">+10 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">4</td>\n<td style=\"width: 141px;\">+10 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">5</td>\n<td style=\"width: 141px;\">+10 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">6</td>\n<td style=\"width: 141px;\">+15 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">7</td>\n<td style=\"width: 141px;\">+15 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">8</td>\n<td style=\"width: 141px;\">+15 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">9</td>\n<td style=\"width: 141px;\">+15 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">10</td>\n<td style=\"width: 141px;\">+20 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">11</td>\n<td style=\"width: 141px;\">+20 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">12</td>\n<td style=\"width: 141px;\">+20 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">13</td>\n<td style=\"width: 141px;\">+20 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">14</td>\n<td style=\"width: 141px;\">+25 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">15</td>\n<td style=\"width: 141px;\">+25 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">16</td>\n<td style=\"width: 141px;\">+25 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">17</td>\n<td style=\"width: 141px;\">+25 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">18</td>\n<td style=\"width: 141px;\">+30 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">19</td>\n<td style=\"width: 141px;\">+30 фт.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">20</td>\n<td style=\"width: 141px;\">+30 фт.</td>\n</tr>\n</tbody>\n</table>"
+		}
+	]
+}
