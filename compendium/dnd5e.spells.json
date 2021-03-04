@@ -133,8 +133,8 @@
 		},
 		{
 			"id": "Black Tentacles",
-			"name": "Black Tentacles",
-			"description": "<p>Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the Duration, these tentacles turn the ground in the area into difficult terrain.</p><p>When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be @JournalEntry[Restrai⁠ned] by the tentacles until the spell ends. A creature that starts its turn in the area and is already @JournalEntry[Restrai⁠ned] by the tentacles takes 3d6 bludgeoning damage.</p><p>A creature @JournalEntry[Restrained] by the tentacles can use its action to make a Strength or D⁠exterity check (its choice) against your spell save DC. On a success, it frees itself.</p>"
+			"name": "Черные щупальца",
+			"description": "<p>Черные извивающиеся щупальца заполняют квадрат на полу с длиной стороны 20 фт., который вы видите в пределах дистанции. Пока заклинание активно, эти щупальца делают местность труднопроходимой. Когда существо впервые за ход входит в область заклинания или начинает там ход, оно должно преуспеть в спасброске Ловкости, иначе получит дробящий урон 3d6 и станет опутанным щупальцами до окончания заклинания. Существо, начинающее ход в этой области, уже опутанное щупальцами, получает дробящий урон 3d6. Опутанное щупальцами существо может действием совершить проверку Силы или Ловкости (на свой выбор) против Сл ваших заклинаний. В случае успеха оно высвобождается.</p>"
 		},
 		{
 			"id": "Blade Barrier",
@@ -148,8 +148,8 @@
 		},
 		{
 			"id": "Blight",
-			"name": "Blight",
-			"description": "<p>Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.</p><p>If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it.</p><p>If you target a nonmagical plant that isn't a creature, such as a tree or shrub, it doesn't make a saving throw, it simply withers and dies.</p><p><strong>Улучшения.</strong> When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.</p>"
+			"name": "Усыхание",
+			"description": "<p>Некротическая энергия омывает выбранное вами существо, которое вы видите в пределах дистанции, забирая из него жидкость и жизненные силы. Цель должна совершить спасбросок Телосложения. Цель получает урон некротической энергией 8d8 в случае провала или половину этого урона в случае успеха. Это заклинание не оказывает никакого эффекта на нежить и конструктов. Если цель — растительное существо или магическое растение, оно совершает спасбросок с помехой, и заклинание причиняет ему максимальный урон. Если цель — немагическое растение, не являющееся существом, например, дерево или куст, оно не совершает спасбросок; а просто засыхает и умирает.</p><p><strong>Улучшения.</strong> Если вы накладываете это заклинание, используя ячейку 5 уровня или выше, урон увеличивается на 1d8 за каждый уровень ячейки выше четвертого.</p>"
 		},
 		{
 			"id": "Blindness/Deafness",
@@ -218,8 +218,8 @@
 		},
 		{
 			"id": "Cloudkill",
-			"name": "Cloudkill",
-			"description": "<p>You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.</p><p>When a creature enters the spell's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don't need to breathe.</p><p>The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.</p><p><strong>Улучшения.&nbsp;</strong>When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.</p>"
+			"name": "Облако смерти",
+			"description": "<p>Вы создаете сферу с радиусом 20 фт. из ядовитого желто-зеленого тумана с центром на точке, выбранной вами в пределах дистанции. Этот туман огибает углы. Он существует, пока активно заклинание, или пока сильный ветер его не развеет, окончив длительность. Его пространство — сильно заслоненная местность. Когда существо впервые за ход входит в область заклинания или начинает там ход, оно должно совершить спасбросок Телосложения. Существо получает урон ядом 5d8 при провале или половину этого урона в случае успеха. Существо попадает под действие заклинания даже если задерживает дыхание или вообще не должно дышать. Облако в начале каждого вашего хода перемещается на 10 фт. прочь от вас, катясь по поверхности. Испарения, будучи тяжелее воздуха, стекаются вниз, и даже могут проникать в отверстия.</p><p><strong>Улучшения.&nbsp;</strong>Если вы накладываете это заклинание, используя ячейку 6 уровня или выше, урон увеличивается на 1d8 за каждый уровень ячейки выше пятого.</p>"
 		},
 		{
 			"id": "Color Spray",
@@ -573,8 +573,8 @@
 		},
 		{
 			"id": "Finger of Death",
-			"name": "Finger of Death",
-			"description": "<p>You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a Constitution saving throw. It takes 7d8 + 30 necrotic damage on a failed save, or half as much damage on a successful one.</p><p>A humanoid killed by this spell rises at the start of your next turn as a Zombie that is permanently under your comm⁠and, following your verbal orders to the best of its ability.</p>"
+			"name": "Перст смерти",
+			"description": "<p>Вы посылаете негативную энергию в видимое вами существо в пределах дистанции, вызывая у него сильную боль. Цель должна совершить спасбросок Телосложения. В случае провала она получает урон некротической энергией 7d8 + 30, или половину этого урона в случае успеха. Гуманоид, убитый этим заклинанием, воскресает в начале вашего следующего хода как зомби, постоянно находящийся под вашим командованием и выполняющий ваши устные команды.</p>"
 		},
 		{
 			"id": "Fire Bolt",
@@ -668,8 +668,8 @@
 		},
 		{
 			"id": "Geas",
-			"name": "Geas",
-			"description": "<p>You place a magical comm⁠and on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become Charmed by you for the Duration. While the creature is cha⁠rmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can’t understand you is unaffected by the spell.</p><p>You can issue any comm⁠and you choose, short of an activity that would result in certain death. Should you issue a suicidal comm⁠and, the spell ends.</p><p>You can end the spell early by using an action to dismiss it. A Remove Curse, Greater Restoration, or wish spell also ends it.</p><p><strong>Улучшения.</strong> When you cast this spell using a spell slot of 7th or 8th level, the Duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the Spells mentioned above.</p>"
+			"name": "Обет",
+			"description": "<p>Вы отдаёте магическую команду существу, видимому в пределах дистанции, заставляя его оказать некую услугу или наоборот, не совершать чего-либо. Если существо может вас понять, оно должно преуспеть в спасброске Мудрости, иначе оно станет очарованным вами на время действия заклинания. Пока существо очаровано вами, оно получает\nурон психической энергией 5d10 каждый раз, когда действует, противореча вашим инструкциям, но не чаще одного раза за день. Существо, не способное вас понять, не попадает под действие этого заклинания. Вы можете отдать любую команду, кроме той, что однозначно будет самоубийственной. Если вы отдадите такую команду, заклинание оканчивается. Вы можете окончить заклинание преждевременно, потратив на это действие. Снятие проклятья, высшее восстановление и исполнение желаний тоже оканчивают его.</p><p><strong>Улучшения.</strong> Если вы накладываете это заклинание, используя ячейку 7 или 8 уровня, длительность равна 1 году. Если вы накладываете это заклинание, используя ячейку 9 уровня, заклинание длится, пока не будет окончено одним из упомянутых выше заклинаний.</p>"
 		},
 		{
 			"id": "Gentle Repose",
@@ -1028,8 +1028,8 @@
 		},
 		{
 			"id": "Mirage Arcane",
-			"name": "Mirage Arcane",
-			"description": "<p>You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. The terrain’s general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.</p><p>Similarly, you can alter the appearance of structures, or add them where none are present. The spell doesn’t disguise, conceal, or add creatures.</p><p>The Illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa) or otherwise impede Movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell’s area disappears immediately.</p><p>Creatures with Truesight can see through the Illusion to the terrain’s true form; however, all other elements of the illu⁠sion remain, so while the creature is aware of the illusion’s presence, the creature can still physically interact with the illus⁠ion.</p>"
+			"name": "Таинственный мираж",
+			"description": "<p>Вы заставляете местность в пределах 1 квадратной мили выглядеть, звучать, пахнуть и даже ощущаться как другая местность. Общая форма местности остаётся той же самой. Открытые поля и дороги можно сделать похожими на болото, холм, расселину или другую труднопроходимую или непроходимую местность. Пруд можно сделать похожим на травяную лужайку, пропасть сделать пологим склоном, а каменистый овраг — широкой и ровной дорогой. Точно так же, вы можете изменять внешний облик строений, или создавать их там, где их не было. Это заклинание не маскирует, не скрывает и не добавляет существ. Иллюзия включает в себя слышимые, видимые, тактильные и обонятельные элементы, так что она может сделать обычную местность труднопроходимой (и наоборот), и как-то иначе препятствовать перемещению. Все части иллюзорной местности (такие как камни и палки), вынесенные за пределы области пространства, мгновенно исчезают. Существа с истинным зрением могут видеть сквозь иллюзию настоящую местность; однако, все элементы иллюзии для него остаются, так что хоть оно и будет знать о наличии иллюзии, оно всё ещё может взаимодействовать с ней.</p>"
 		},
 		{
 			"id": "Mirror Image",
@@ -1123,8 +1123,8 @@
 		},
 		{
 			"id": "Power Word Stun",
-			"name": "Power Word Stun",
-			"description": "<p>You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 Hit Points or fewer, it is Stunned. Otherwise, the spell has no effect.</p><p>The s⁠tunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.</p>"
+			"name": "Слово силы: оглушение",
+			"description": "<p>Вы произносите слово силы, способное захлестнуть сознание одного существа, видимого в пределах дистанции, делая его потрясённым. Если у существа не больше 150 хитов, оно становится ошеломлённым. В противном случае это заклинание не оказывает никакого эффекта. Ошеломлённая цель должна в конце каждого своего хода совершать спасбросок Телосложения. При успехе ошеломление проходит.</p>"
 		},
 		{
 			"id": "Prayer of Healing",
@@ -1158,8 +1158,8 @@
 		},
 		{
 			"id": "Programmed Illusion",
-			"name": "Programmed Illusion",
-			"description": "<p>You create an Illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The i⁠llusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the i⁠llusion behaves and what sounds it makes. This scripted Performance can last up to 5 minutes.</p><p>When the condition you specify occurs, the i⁠llusion springs into existence and performs in the manner you described. Once the i⁠llusion finishes performing, it disappears and remains dormant for 10 minutes. After this time, the i⁠llusion can be activated again.</p><p>The triggering condition can be as general or as detailed as you like, though it must be based on visual or audible Conditions that occur within 30 feet of the area. For example, you could create an i⁠llusion of yourself to appear and warn off others who attempt to open a trapped door, or you could set the i⁠llusion to trigger only when a creature says the correct word or phrase.</p><p>Physical interaction with the image reveals it to be an i⁠llusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an i⁠llusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature</p>"
+			"name": "Заданная иллюзия",
+			"description": "<p>Вы создаёте иллюзию предмета, существа или другого видимого явления в пределах дистанции, активирующуюся при выполнении особых условий. Пока условия не выполнены, иллюзия будет неразличима. Она должна помещаться в куб с длиной ребра 30 фт., и вы при накладывании заклинания определяете, как иллюзия будет себя вести, и какие звуки она будет издавать. Заготовленные действия могут длиться до 5 минут. Когда указанное вами условие будет выполнено, иллюзия проявляется и выполняет описанные вами действия. Как только иллюзия закончит действовать, она исчезает и остаётся спящей 10 минут. После этого иллюзия может быть снова активирована. Условие может быть простым или замысловатым, но оно должно основываться на видимом или слышимом событии, способном произойти в пределах 30 фт. от области. Например, вы можете создать иллюзию себя, появляющегося и предупреждающего тех, кто попытается открыть дверь с ловушкой, или же иллюзия может проявляться только когда существо произносит правильное слово или фразу. Физическое взаимодействие с образом даёт понять, что это иллюзия, потому что сквозь него всё проходит. Существа, исследующие образ действием, могут определить, что это иллюзия, совер\nшив успешную проверку Интеллекта (Анализ) против Сл ваших заклинаний. Если существо распознаёт иллюзию, оно может видеть сквозь неё, и издаваемые ей звуки тоже становятся незначащими.</p>"
 		},
 		{
 			"id": "Project Image",
@@ -1263,8 +1263,8 @@
 		},
 		{
 			"id": "Scrying",
-			"name": "Scrying",
-			"description": "<p>You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you’re casting this spell, it can fail the saving throw voluntarily if it wants to be observed.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Knowledge</strong></td>\n<td><strong>Save Modifier</strong></td>\n</tr>\n<tr>\n<td>Secondhand (you have heard of the target)</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>Firsthand (you have met the target)</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Familiar (you know the target well)</td>\n<td>-5</td>\n</tr>\n</tbody>\n</table>\n\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Connection</strong></td>\n<td><strong>Save Modifier</strong></td>\n</tr>\n<tr>\n<td>Likeness or picture</td>\n<td>-2</td>\n</tr>\n<tr>\n<td>Possession or garment</td>\n<td>-4</td>\n</tr>\n<tr>\n<td>Body part, lock of hair, bit of nail, or the like</td>\n<td>-10</td>\n</tr>\n</tbody>\n</table>\n<p>On a successful save, the target isn’t affected, and you can’t use this spell against it again for 24 hours.</p><p>On a failed save, the spell creates an Invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the Duration. A creature that can see Invisile Objects sees the sensor as a luminous orb about the size of your fist.</p><p>Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn’t move.</p>"
+			"name": "Наблюдение",
+			"description": "<p>Вы можете видеть и слышать конкретное выбранное вами существо, находящееся на том же плане существования, что и вы. Цель должна совершить спасбросок Мудрости, модифицируемый тем, как хорошо вы знаете цель, и тем, какая связь с этим существом у вас есть. Если цель знает, что вы накладываете это заклинание, она может добровольно провалить спасбросок, если хочет, чтобы за ней следили.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Знание</strong></td>\n<td><strong>Модификатор спасброска</strong></td>\n</tr>\n<tr>\n<td>Через посредников (вы только слышали о цели)</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>Из первых рук (вы встречались с целью)</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Знакомые (вы хорошо знаете цель)</td>\n<td>-5</td>\n</tr>\n</tbody>\n</table>\n\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Связь</strong></td>\n<td><strong>Модификатор спасброска</strong></td>\n</tr>\n<tr>\n<td>Образ или рисунок</td>\n<td>-2</td>\n</tr>\n<tr>\n<td>Вещь или одежда</td>\n<td>-4</td>\n</tr>\n<tr>\n<td>Часть тела, прядь волос, кусок ногтя, и т. п.</td>\n<td>-10</td>\n</tr>\n</tbody>\n</table>\n<p>При успехе цель не попадает под действие, и вы не можете использовать это заклинание на ней в течение 24 часов. При провале заклинание создаёт невидимый сенсор в пределах 10 фт. от цели. Вы можете видеть и слышать через него, как если бы вы там находились. Сенсор перемещается вместе с целью, оставаясь в пределах 10 фт. от неё, пока активно заклинание. Существа, способные видеть невидимые предметы, видят сенсор как светящийся шарик размером с ваш кулак. Вместо того чтобы нацеливаться на существо, вы можете выбрать целью место, уже видимое вами. В этом случае сенсор появляется в этом месте и не перемещается.</p>"
 		},
 		{
 			"id": "Secret Chest",
@@ -1498,8 +1498,8 @@
 		},
 		{
 			"id": "True Seeing",
-			"name": "True Seeing",
-			"description": "<p>This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.</p>"
+			"name": "Истинное зрение",
+			"description": "<p>Заклинание даёт согласному существу, которого вы коснулись, способность видеть вещи такими, какими они являются на самом деле. Пока заклинание активно, это существо обладает истинным зрением, видит потайные двери, сокрытые магией, и его зрение простирается на Эфирный План, и всё это в пределах 120 фт.</p>"
 		},
 		{
 			"id": "True Strike",
