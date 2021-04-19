@@ -14,6 +14,13 @@
 		"type": "module"
 	}
   ],
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "path": "lang/ru.json"
+    }
+  ],
   "author": "ZwS",
   "esmodules": ["babele-register.js"],
   "manifest": "https://github.com/ZwS/foundryvtt-dnd5e-lang-ru/raw/master/module.json",
