@@ -2,9 +2,9 @@
   "name": "dnd5e-lang-ru",
   "title": "DnD5e Russian Translation",
   "description": "Add Russian language to dnd5e system for FoundryVTT. Based on FoundryVTT-dnd5e-it",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "minimumCoreVersion" : "0.7.6",
-  "compatibleCoreVersion":"0.7.9",
+  "compatibleCoreVersion":"0.8.3",
   "systems": [
     "dnd5e"
   ],
